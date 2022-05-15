@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Quotes-Generator/static/css/main.8724c7cc.css",
+    "main.js": "/Quotes-Generator/static/js/main.68b62000.js",
+    "static/js/787.108586fb.chunk.js": "/Quotes-Generator/static/js/787.108586fb.chunk.js",
+    "static/media/city.jpg": "/Quotes-Generator/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/Quotes-Generator/index.html",
+    "main.8724c7cc.css.map": "/Quotes-Generator/static/css/main.8724c7cc.css.map",
+    "main.68b62000.js.map": "/Quotes-Generator/static/js/main.68b62000.js.map",
+    "787.108586fb.chunk.js.map": "/Quotes-Generator/static/js/787.108586fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8724c7cc.css",
+    "static/js/main.68b62000.js"
+  ]
+}
